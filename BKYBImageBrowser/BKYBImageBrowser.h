@@ -5,7 +5,7 @@
 //  Created by zhaolin on 2020/1/19.
 //  Copyright © 2020 BIKE. All rights reserved.
 //
-//  3.0.9
+//  YBImageBrowser版本3.0.9
 
 #import <Foundation/Foundation.h>
 
