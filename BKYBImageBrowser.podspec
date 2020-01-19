@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "BKYBImageBrowser"
-  s.version          = "1.0.0"
+  s.version          = "3.0.9"
   s.summary          = "YBImageBrowser改依赖为YYKit"
   s.homepage         = "https://github.com/MMDDZ"
   s.license          = "MIT"
