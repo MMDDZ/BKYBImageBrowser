@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:YBImageBrowser.xcodeproj">
+      location = "self:BKYBImageBrowser.xcodeproj">
    </FileRef>
 </Workspace>

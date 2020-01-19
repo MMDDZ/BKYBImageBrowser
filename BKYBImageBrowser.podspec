@@ -8,8 +8,8 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/MMDDZ/BKYBImageBrowser", :tag => s.version.to_s }
   s.ios.deployment_target = '8.0'
   
-  core.source_files  = "YBImageBrowser/**/*.{h,m}"
-  core.resources     = "YBImageBrowser/Video/YBImageBrowserVideo.bundle", "YBImageBrowser/YBImageBrowser/YBImageBrowser.bundle"
+  s.source_files  = "BKYBImageBrowser/**/*.{h,m}"
+  s.resources     = "BKYBImageBrowser/Video/YBImageBrowserVideo.bundle", "BKYBImageBrowser/YBImageBrowser/YBImageBrowser.bundle"
   
   s.dependency 'SDWebImage', '~> 5.2.3'
   s.dependency 'YYKit', '1.0.9'

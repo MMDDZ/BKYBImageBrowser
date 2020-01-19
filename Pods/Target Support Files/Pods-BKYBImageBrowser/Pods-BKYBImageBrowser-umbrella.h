@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_YBImageBrowserVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_YBImageBrowserVersionString[];
+FOUNDATION_EXPORT double Pods_BKYBImageBrowserVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_BKYBImageBrowserVersionString[];
 
