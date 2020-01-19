@@ -1,0 +1,2 @@
+# BKYBImageBrowser
+YBImageBrowser改依赖为YYKit
